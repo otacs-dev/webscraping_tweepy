@@ -1,0 +1,82 @@
+════════════════════════════════════════════════════════════════════════════════
+  ~~ GERADOR DE DADOS SIMULADOS
+  Análise de Sentimentos: Google Ads e Meta Ads
+  Octávio Teodoro | FATEC BS
+════════════════════════════════════════════════════════════════════════════════
+
+[1/3] 📊 Gerando dados simulados...
+      Meta: 300 opiniões (100 por período)
+
+      Gerando Pré-Evento...
+      ✅ 100 opiniões geradas
+
+      Gerando Evento...
+      ✅ 100 opiniões geradas
+
+      Gerando Pós-Evento...
+      ✅ 100 opiniões geradas
+
+      ✅ Total: 300 opiniões simuladas
+
+[2/3] 📈 Calculando estatísticas...
+
+════════════════════════════════════════════════════════════════════════════════
+📊 ESTATÍSTICAS DO DATASET SIMULADO
+════════════════════════════════════════════════════════════════════════════════
+
+🎯 TOTAL: 300 opiniões
+
+📊 Distribuição de Sentimentos:
+   • Positivos:   19 (  6.3%)
+   • Negativos:  205 ( 68.3%)
+   • Neutros:     76 ( 25.3%)
+
+📈 Médias Gerais:
+   • Polaridade:     -0.293
+   • Felicidade:     37.1%
+   • Concordância:   51.0%
+   • Relevância:     68.3/100
+
+📅 Por Período:
+
+Período           Opiniões   Polaridade   Felicidade   Negativos%
+---------------------------------------------------------------
+Pré-Evento             100      -0.210        40.3%        60.0%
+Evento                 100      -0.328        35.5%        71.0%
+Pós-Evento             100      -0.342        35.3%        74.0%
+
+🏷️ Tópicos Mais Mencionados:
+   • Impostos                             41 ( 13.7%)
+   • Meta_Ads, Impostos                   35 ( 11.7%)
+   • Meta_Ads                             34 ( 11.3%)
+   • Google_Ads, CPC                      32 ( 10.7%)
+   • Meta_Ads, Impostos, Preços           31 ( 10.3%)
+
+[3/3] 💾 Exportando arquivos...
+
+════════════════════════════════════════════════════════════════════════════════
+ARQUIVOS GERADOS
+════════════════════════════════════════════════════════════════════════════════
+
+   ✅ dataset_simulado_300_opinoes.csv
+   ✅ periodo_pré_evento_100_opinoes.csv
+   ✅ periodo_evento_100_opinoes.csv
+   ✅ periodo_pós_evento_100_opinoes.csv
+   ✅ resumo_estatistico_simulado.csv
+   ✅ LEIA_ME_DADOS_SIMULADOS.txt
+
+════════════════════════════════════════════════════════════════════════════════
+✅ DATASET SIMULADO GERADO COM SUCESSO!
+════════════════════════════════════════════════════════════════════════════════
+
+💡 PRÓXIMOS PASSOS:
+   1. Leia o arquivo 'LEIA_ME_DADOS_SIMULADOS.txt'
+   2. Importe os CSVs no Jamovi para análise estatística
+   3. Crie visualizações no Power BI
+   4. Use os dados para demonstrar sua metodologia no TCC
+
+📊 RESULTADOS PRINCIPAIS:
+   • Sentimento piora após impostos (polaridade cai)
+   • Felicidade diminui ao longo do tempo
+   • ~70% de opiniões negativas no pós-evento
+   • Perfeito para demonstrar análise temporal!

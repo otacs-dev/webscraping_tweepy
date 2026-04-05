@@ -1,0 +1,53 @@
+INICIACAO_CIENTIFICA/
+│
+├── .vscode/
+│
+├── artigo/
+│   └── Boneco Projeto PIC 1.2- OCTÁVIO TEODORO - Fatec BS.docx
+│
+├── dashboards_charts_tables/
+│   ├── IC_SENTIMENTO.pbix
+│   ├── IC_SENTIMENTO.pdf
+│   ├── analise_frequencia_1_jamovi.png
+│   ├── cards_de_kpi.png
+│   ├── grafico_distribuicao_de_sentimentos_por_periodo.png
+│   ├── grafico_linha_do_tempo_da_felicidade(%).png
+│   ├── grafico_linha_do_tempo_felicidade(%)_2.png
+│   ├── grafico_nuvem_de_palavras_wordcloud.png
+│   ├── IC_KPIs_ANOVA.png
+│   ├── resumo_estatistico_1_jamovi.png
+│   ├── resumo_estatistico_2_jamovi.png
+│   ├── slicer_interativo(validacao_estatistica).png
+│   ├── teste_hipotese(ANOVA)_1_jamovi.png
+│   ├── teste_hipotese(ANOVA)_2_jamovi.png
+│   ├── teste_hipotese(ANOVA)_3_jamovi.png
+│   └── teste_hipotese(ANOVA)_4_jamovi.png
+│
+├── docs/
+│   ├── README_jamovi.md
+│   ├── cheat_sheet_interpretacao.R
+│   ├── guia_uso_jamovi.R
+│   └── Structural pattern.txt
+│
+├── Extrações_dados_reais/
+│   ├── analise_rapida_12_opinoes.csv
+│   ├── periodo_evento_3.csv
+│   ├── periodo_pós_evento_6.csv
+│   ├── periodo_pré_evento_3.csv
+│   ├── resumo_rapido.csv
+│   └── log_terminal_reais.docx
+│
+├── Extrações_dados_sintéticos_alta_escala/
+│   ├── dataset_simulado_300_opinioes.csv
+│   ├── periodo_evento_100_opinioes.csv
+│   ├── periodo_pós_evento_100_opinioes.csv
+│   ├── periodo_pré_evento_100_opinioes.csv
+│   ├── resumo_estatistico_simulado.csv
+│   └── log_terminal_sintéticos.docx
+│
+├── Scripts/
+│   ├── extraction_tweepy_simulation.py
+│   ├── extraction_tweepy.py
+│   └── analise_hibrida_jamovi.R
+│
+└── README.txt

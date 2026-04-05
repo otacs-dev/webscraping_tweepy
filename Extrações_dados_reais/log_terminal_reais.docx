@@ -1,0 +1,134 @@
+🔧 Inicializando...
+
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+  VERSÃO RÁPIDA - ANÁLISE DE SENTIMENTOS
+  Google Ads e Meta Ads
+  Octávio Teodoro | FATEC BS
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
+⚡ VERSÃO OTIMIZADA:
+   • Apenas 3 queries estratégicas
+   • ~100-150 tweets de qualidade
+   • Tempo: 10-15 minutos
+   • 4 métricas completas
+
+Iniciar? (s/n): s
+
+🚀 Iniciando...
+
+
+════════════════════════════════════════════════════════════════════════════════
+  ⚡ ANÁLISE RÁPIDA DE SENTIMENTOS - VERSÃO OTIMIZADA
+  Google Ads e Meta Ads
+  Octávio Teodoro | FATEC BS
+════════════════════════════════════════════════════════════════════════════════
+
+[1/4] 🔐 Autenticando...
+      ✅ Conectado!
+
+[2/4] 📊 Coletando tweets...
+
+================================================================================
+⚡ COLETA RÁPIDA - GOOGLE ADS E META ADS
+================================================================================
+
+💡 Estratégia: 3 queries selecionadas para máxima eficiência
+   • Query 1: Google Ads (termos amplos)
+   • Query 2: Meta Ads (termos amplos)
+   • Query 3: Anúncios + custos (geral)
+
+📍 Query 1/3: ("google ads" OR "adwords") (fatura OR cobrança OR imposto OR taxa OR ...
+   ✅ Coletados: 2 | Novos: 2 | Total: 2
+   ⏳ Aguardando 3 segundos...
+📍 Query 2/3: ("meta ads" OR "facebook ads" OR "instagram ads") (fatura OR cobrança ...
+Rate limit exceeded. Sleeping for 898 seconds.
+   ❌ Erro: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without...
+📍 Query 3/3: (anúncios OR publicidade) (fatura OR imposto OR taxa OR tributação) la...
+   ✅ Coletados: 10 | Novos: 10 | Total: 12
+
+────────────────────────────────────────────────────────────────────────────────
+✅ COLETA CONCLUÍDA: 12 tweets únicos
+────────────────────────────────────────────────────────────────────────────────
+
+[3/4] 📅 Organizando...
+
+📅 Distribuindo em períodos...
+   • Pré-Evento:    3 tweets
+   • Evento:        3 tweets
+   • Pós-Evento:    6 tweets
+
+[4/4] 🔬 Analisando sentimentos...
+────────────────────────────────────────────────────────────────────────────────
+   ✅ Analisados: 12 tweets
+   ⚠️ Rejeitados: 0 (baixa qualidade)
+
+════════════════════════════════════════════════════════════════════════════════
+📊 ESTATÍSTICAS FINAIS
+════════════════════════════════════════════════════════════════════════════════
+
+🎯 TOTAL: 12 opiniões analisadas
+
+📊 Sentimentos:
+   • Positivos:    1 (  8.3%)
+   • Negativos:    7 ( 58.3%)
+   • Neutros:      4 ( 33.3%)
+
+📈 Médias:
+   • Polaridade:     -0.168
+   • Felicidade:     50.0%
+   • Concordância:   44.2%
+
+📅 Por Período:
+
+Período           Opiniões   Polaridade   Felicidade
+--------------------------------------------------
+Pré-Evento               3      -0.080        50.0%
+Evento                   3      -0.240        50.0%
+Pós-Evento               6      -0.177        50.0%
+
+🏷️ Tópicos:
+   • Impostos                         6x
+   • Geral                            3x
+   • Impostos, Preços                 1x
+   • Google_Ads, Preços               1x
+   • Google_Ads, Impostos             1x
+
+════════════════════════════════════════════════════════════════════════════════
+💾 EXPORTANDO...
+════════════════════════════════════════════════════════════════════════════════
+
+   ✅ analise_rapida_12_opinoes.csv
+   ✅ periodo_pré_evento_3.csv
+   ✅ periodo_evento_3.csv
+   ✅ periodo_pós_evento_6.csv
+   ✅ resumo_rapido.csv
+
+════════════════════════════════════════════════════════════════════════════════
+   ✅ analise_rapida_12_opinoes.csv
+   ✅ periodo_pré_evento_3.csv
+   ✅ periodo_evento_3.csv
+   ✅ periodo_pós_evento_6.csv
+   ✅ resumo_rapido.csv
+
+════════════════════════════════════════════════════════════════════════════════
+   ✅ periodo_pré_evento_3.csv
+   ✅ periodo_evento_3.csv
+   ✅ periodo_pós_evento_6.csv
+   ✅ resumo_rapido.csv
+
+════════════════════════════════════════════════════════════════════════════════
+   ✅ periodo_evento_3.csv
+   ✅ periodo_pós_evento_6.csv
+   ✅ resumo_rapido.csv
+
+════════════════════════════════════════════════════════════════════════════════
+   ✅ resumo_rapido.csv
+
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════════════
+✅ CONCLUÍDO!
+════════════════════════════════════════════════════════════════════════════════
+
+💡 Arquivos prontos para Jamovi e Power BI!
